@@ -29,23 +29,3 @@ $(document).ready(function() {
 
 
     })
-
-
-
-    /*
-    $('ul').on( 'click', 'li', function(){
-        if($(this).hasClass('active')){
-        $('.task-item').toggleClass('active');
-        } else{
-            $('.task-item').toggleClass('active');
-
-        }
-    })*/
-
-
-
-    //fixed todo check
-    /*
-        $('ul').on('click','li', () => {
-                $('li').toggleClass('active');
-            })*/
